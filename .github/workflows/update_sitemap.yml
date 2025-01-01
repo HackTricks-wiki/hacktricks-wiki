@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "sitemap-github-actions[bot]"
           git config user.email "sitemap-workflow@users.noreply.github.com"
-          git add sitemap.xml sitemap2.xml
+          git add sitemap.xml
           git commit -m "Update sitemap" || echo "No changes to commit"
           git push
