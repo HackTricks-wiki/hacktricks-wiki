@@ -143,7 +143,7 @@
     <input type="text" id="searchInput" placeholder="Search within HackTricks..." />
     <div class="buttons">
         <button type="submit" name="engine" value="bing">Search with Bing</button>
-        <button type="submit" name="engine" value="google">Search with Google</button>
+        <button type="submit" name="engine" value="hacktricks">Search inside HackTricks</button>
     </div>
 </form>
 
@@ -155,10 +155,12 @@
         const filter = 'site:hacktricks.xyz';
         
         let actionUrl;
-        if (engine === 'google') {
-            actionUrl = 'https://www.google.com/search';
+        if (engine === 'hacktricks') {
+            actionUrl = 'https://book.hacktricks.wiki/en/index.html';
+            input_name = 'search';
         } else {
             actionUrl = 'https://www.bing.com/search';
+            input_name = 'q';
         }
 
         // Create a hidden form to submit to the appropriate engine
@@ -168,7 +170,7 @@
 
         const input = document.createElement('input');
         input.type = 'hidden';
-        input.name = 'q';
+        input.name = input_name;
         input.value = filter + ' ' + userQuery;
         form.appendChild(input);
 
