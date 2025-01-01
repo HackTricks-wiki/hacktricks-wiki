@@ -1,0 +1,39 @@
+name: Update Sitemap
+
+on:
+  schedule:
+    - cron: "0 4 * * 0"  # Runs every Sunday at 4am UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests tqdm
+
+      - name: Run sitemap generation script
+        run: python generate_sitemap.py
+
+      - name: Check it was generated
+        run: ls -l
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "sitemap-github-actions[bot]"
+          git config user.email "sitemap-workflow@users.noreply.github.com"
+          git add sitemap.xml sitemap2.xml
+          git commit -m "Update sitemap" || echo "No changes to commit"
+          git push
