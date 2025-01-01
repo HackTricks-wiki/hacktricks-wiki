@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>HackTricks Search</title>
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to bottom right, #000000, #111111);
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
+
+    .logo-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        margin-bottom: 1rem;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .logo {
+        width: 150px;
+        height: auto;
+        max-width: 40vw; /* Ensures logo fits on small screens */
+    }
+
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .light-grey {
+        color: #ccc;
+    }
+
+    .hacktricks-text {
+        color: #c62828; /* darker red */
+    }
+
+    .cloud-text {
+        color: #1976D2; /* a slightly darker blue */
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: #1a1a1a;
+        border-radius: 8px;
+        padding: 2rem;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        width: 90%;
+        max-width: 600px;
+        box-sizing: border-box;
+    }
+
+    input[type="text"] {
+        padding: 1rem;
+        border: 2px solid #c62828; /* darker red */
+        outline: none;
+        width: 100%;
+        background: #000000;
+        color: #fff;
+        font-size: 1.2rem;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    .buttons {
+        margin-top: 1.5rem;
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .buttons button {
+        padding: 0.8rem 1.5rem;
+        border: none;
+        background: #c62828; /* darker red */
+        color: #fff;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background 0.3s;
+        border-radius: 4px;
+        flex: 1 1 auto;
+        max-width: 200px;
+        text-align: center;
+    }
+
+    .buttons button:hover {
+        background: #b71c1c; /* even darker on hover */
+    }
+
+    @media (max-width: 600px) {
+        h1 {
+            font-size: 1.5rem;
+        }
+
+        .logo {
+            width: 100px;
+        }
+
+        input[type="text"] {
+            font-size: 1rem;
+        }
+
+        .buttons button {
+            font-size: 0.9rem;
+            padding: 0.8rem;
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="logo-container">
+    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iQ2FwYV8xIiBkYXRhLW5hbWU9IkNhcGEgMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDEwODAgMTA4MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNEZWdyYWRhZG9fc2luX25vbWJyZV81MTYpOwogICAgICB9CgogICAgICAuY2xzLTIgewogICAgICAgIGZpbGw6IHVybCgjRGVncmFkYWRvX3Npbl9ub21icmVfNTE4KTsKICAgICAgfQoKICAgICAgLmNscy0zIHsKICAgICAgICBmaWxsOiB1cmwoI0RFR1JBREFET19ST0pPXzEpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJEZWdyYWRhZG9fc2luX25vbWJyZV81MTYiIGRhdGEtbmFtZT0iRGVncmFkYWRvIHNpbiBub21icmUgNTE2IiB4MT0iMjY5LjI2IiB5MT0iNDE2LjciIHgyPSIyNjkuMjYiIHkyPSI3My4yOCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii40IiBzdG9wLWNvbG9yPSIjZjYxOTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQ1IiBzdG9wLWNvbG9yPSIjZjYxYTAyIiBzdG9wLW9wYWNpdHk9Ii45NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii41NSIgc3RvcC1jb2xvcj0iI2Y3MWYwOSIgc3RvcC1vcGFjaXR5PSIuODQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNjciIHN0b3AtY29sb3I9IiNmOTI3MTUiIHN0b3Atb3BhY2l0eT0iLjY1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjgxIiBzdG9wLWNvbG9yPSIjZmIzMjI1IiBzdG9wLW9wYWNpdHk9Ii4zOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii45OCIgc3RvcC1jb2xvcj0iI2ZlNDAzYSIgc3RvcC1vcGFjaXR5PSIuMDUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmY0MjNkIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9IkRlZ3JhZGFkb19zaW5fbm9tYnJlXzUxOCIgZGF0YS1uYW1lPSJEZWdyYWRhZG8gc2luIG5vbWJyZSA1MTgiIHgxPSI4MTAuNzQiIHkxPSI2NjYuNzIiIHgyPSI4MTAuNzQiIHkyPSIxMDA2LjcyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQiIHN0b3AtY29sb3I9IiNmNjE5MDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNDciIHN0b3AtY29sb3I9IiNmNjFjMDQiIHN0b3Atb3BhY2l0eT0iLjkyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjYiIHN0b3AtY29sb3I9IiNmODI0MTAiIHN0b3Atb3BhY2l0eT0iLjcyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjc5IiBzdG9wLWNvbG9yPSIjZmIzMTI0IiBzdG9wLW9wYWNpdHk9Ii40Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmNDIzZCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJERUdSQURBRE9fUk9KT18xIiBkYXRhLW5hbWU9IkRFR1JBREFETyBST0pPIDEiIHgxPSI1NDAiIHkxPSIxMDA2LjcyIiB4Mj0iNTQwIiB5Mj0iNzMuMjgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmYxMzBiIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuMDMiIHN0b3AtY29sb3I9IiNmZTEzMGEiIHN0b3Atb3BhY2l0eT0iLjA5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjEiIHN0b3AtY29sb3I9IiNmYzE0MDciIHN0b3Atb3BhY2l0eT0iLjMzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjE3IiBzdG9wLWNvbG9yPSIjZmExNjA1IiBzdG9wLW9wYWNpdHk9Ii41MyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii4yNCIgc3RvcC1jb2xvcj0iI2Y4MTcwMyIgc3RvcC1vcGFjaXR5PSIuNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii4zMSIgc3RvcC1jb2xvcj0iI2Y3MTcwMSIgc3RvcC1vcGFjaXR5PSIuODMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuMzgiIHN0b3AtY29sb3I9IiNmNjE4MDAiIHN0b3Atb3BhY2l0eT0iLjkyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQ0IiBzdG9wLWNvbG9yPSIjZjYxODAwIiBzdG9wLW9wYWNpdHk9Ii45OCIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii41IiBzdG9wLWNvbG9yPSIjZjYxOTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjU1IiBzdG9wLWNvbG9yPSIjZjYxYTAxIiBzdG9wLW9wYWNpdHk9Ii45NyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii42MSIgc3RvcC1jb2xvcj0iI2Y2MWQwNiIgc3RvcC1vcGFjaXR5PSIuOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii42OSIgc3RvcC1jb2xvcj0iI2Y4MjIwZCIgc3RvcC1vcGFjaXR5PSIuNzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNzciIHN0b3AtY29sb3I9IiNmOTI5MTgiIHN0b3Atb3BhY2l0eT0iLjYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuODciIHN0b3AtY29sb3I9IiNmYjMyMjYiIHN0b3Atb3BhY2l0eT0iLjM4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjk2IiBzdG9wLWNvbG9yPSIjZmUzZDM2IiBzdG9wLW9wYWNpdHk9Ii4xMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZjQyM2QiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJtMzI1LjkzLDczLjI4aC0xMTMuMzJzMCwyOTkuMDQsMCwyOTkuMDRjMCwyNC41MSwxOS44Nyw0NC4zNyw0NC4zNyw0NC4zN2gyNC41OGMyNC41MSwwLDQ0LjM3LTE5Ljg3LDQ0LjM3LTQ0LjM3VjczLjI4WiIvPgogIDxwYXRoIGNsYXNzPSJjbHMtMiIgZD0ibTgyMi4xLDY2Ni43MmgtMjIuNzJjLTI1LjAyLDAtNDUuMywyMC4yOC00NS4zLDQ1LjN2Mjk0LjY5aDExMy4zMnYtMjk0LjY5YzAtMjUuMDItMjAuMjgtNDUuMy00NS4zLTQ1LjNaIi8+CiAgPHBhdGggY2xhc3M9ImNscy0zIiBkPSJtNzU0LjA3LDczLjI4djIxMS4wMWMwLDE5LjM3LTIuODEsMzguNjUtOC42Miw1Ny4xMy0xNi45OCw1NC4wNi02Ni4yMSwxNDQuNTQtMjA1LjQ1LDE0NC41NHYtLjA2Yy0zMjcuNCwwLTMyNy40LDI4OS4wMS0zMjcuNCwyOTEuOTh2MjI4LjcxaDExMy4zMnYtMjA0LjkxYzAtMzYuODEsOC44My03My4xOSwyNi41My0xMDUuNDYsMjYuOTgtNDkuMTcsODAuODItMTAyLjMyLDE4Ny41NC0xMDIuMzJ2LS4wNmMzMjcuNCwwLDMyNy40LTI5MS45OCwzMjcuNC0yOTEuOThWNzMuMjhoLTExMy4zMloiLz4KPC9zdmc+" alt="HackTricks Logo" class="logo" />
+    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iQ2FwYV8xIiBkYXRhLW5hbWU9IkNhcGEgMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDEwODAgMTA4MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNEZWdyYWRhZG9fc2luX25vbWJyZV8yKTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iRGVncmFkYWRvX3Npbl9ub21icmVfMiIgZGF0YS1uYW1lPSJEZWdyYWRhZG8gc2luIG5vbWJyZSAyIiB4MT0iMjU4LjU4IiB5MT0iNTQwIiB4Mj0iODIxLjQyIiB5Mj0iNTQwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLjUiIHN0b3AtY29sb3I9IiMwM2YiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNTQiIHN0b3AtY29sb3I9IiMwM2YiIHN0b3Atb3BhY2l0eT0iLjk3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjYxIiBzdG9wLWNvbG9yPSIjMDNmIiBzdG9wLW9wYWNpdHk9Ii45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjY4IiBzdG9wLWNvbG9yPSIjMDNmIiBzdG9wLW9wYWNpdHk9Ii43OCIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii43NyIgc3RvcC1jb2xvcj0iIzAzZiIgc3RvcC1vcGFjaXR5PSIuNjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuODYiIHN0b3AtY29sb3I9IiMwM2YiIHN0b3Atb3BhY2l0eT0iLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuOTUiIHN0b3AtY29sb3I9IiMwM2YiIHN0b3Atb3BhY2l0eT0iLjE0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAzZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NjQuNDYsOTYuNzloLTE5My43MWMtODcuNzEsMC0xMzYuNzIsMzAuNzYtMTc1LjQ1LDEwOS4zOGwtMTA0LjgzLDIxMC43N2MtMjIuNzgsNDUuNTgtMzEuOSw3Ni4zNC0zMS45LDEyNi40NywwLDQ0LjQzLDExLjM5LDgwLjg5LDMwLjc2LDExOS42M2wxMDQuODMsMjExLjkyYzM2LjQ1LDc0LjA2LDg1LjQ2LDEwOC4yNCwxNzAuOSwxMDguMjRoMjU2LjM2di0xMTMuOTNoLTI0Mi42OWMtNTEuMjYsMC02Mi42NS0zLjQyLTg1LjQ0LTUwLjEzbC05Ni44NS0xOTcuMTFjLTEzLjY3LTI3LjM1LTIzLjkyLTQ2LjcxLTIzLjkyLTc4LjYxLDAtMzUuMzIsOS4xMS01NS44MywyMy45Mi04Ni41OWw5OS4xMy0xOTguMjVjMjEuNjQtNDMuMjksMjkuNjItNDcuODUsNzguNi00Ny44NWgyNDcuMjV2LTExMy45M2gtNTYuOTZaIi8+Cjwvc3ZnPg==" alt="HackTricks Cloud Logo" class="logo" />
+</div>
+
+<h1>
+    <span class="light-grey">Search in </span>
+    <span class="hacktricks-text">HackTricks</span>
+    <span class="light-grey">&amp;</span>
+    <span class="cloud-text">HackTricks Cloud</span>
+</h1>
+
+<form id="searchForm">
+    <input type="text" id="searchInput" placeholder="Search within HackTricks..." />
+    <div class="buttons">
+        <button type="submit" name="engine" value="bing">Search with Bing</button>
+        <button type="submit" name="engine" value="google">Search with Google</button>
+    </div>
+</form>
+
+<script>
+    document.getElementById('searchForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const userQuery = document.getElementById('searchInput').value.trim();
+        const engine = e.submitter.value; // 'google' or 'bing'
+        const filter = 'site:hacktricks.xyz';
+        
+        let actionUrl;
+        if (engine === 'google') {
+            actionUrl = 'https://www.google.com/search';
+        } else {
+            actionUrl = 'https://www.bing.com/search';
+        }
+
+        // Create a hidden form to submit to the appropriate engine
+        const form = document.createElement('form');
+        form.action = actionUrl;
+        form.method = 'get';
+
+        const input = document.createElement('input');
+        input.type = 'hidden';
+        input.name = 'q';
+        input.value = filter + ' ' + userQuery;
+        form.appendChild(input);
+
+        document.body.appendChild(form);
+        form.submit();
+    });
+</script>
+
+</body>
+</html>
