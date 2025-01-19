@@ -25432,6 +25432,48 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-app-services.html"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-registry.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-container-registry.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-instances.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-container-instances.html"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-cosmosDB.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-cosmosDB.html"/>
@@ -26209,25 +26251,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-post-exploitation/az-blob-storage-post-exploitation.html"/>
   </url>
   <url>
-    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html</loc>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html</loc>
     <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-post-exploitation/az-cosmosDB-post-exploitation.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation.html</loc>
@@ -26522,6 +26564,48 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-container-registry-privesc.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-container-instances-privesc.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-cosmosDB-privesc.html</loc>
