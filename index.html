@@ -142,9 +142,9 @@
 <form id="searchForm">
     <input type="text" id="searchInput" placeholder="Search within HackTricks..." />
     <div class="buttons">
-        <button type="submit" name="engine" value="hacktricks">Search in HackTricks</button>
-        <button type="submit" name="engine" value="hacktricks-cloud">Search in HackTricks Cloud</button>
-        <button type="submit" name="engine" value="bing">Search with Bing</button>
+        <button type="submit" name="engine" value="hacktricks">HackTricks</button>
+        <button type="submit" name="engine" value="hacktricks-cloud">Cloud</button>
+        <button type="submit" name="engine" value="bing">Bing</button>
     </div>
 </form>
 
@@ -153,7 +153,7 @@
         e.preventDefault();
         const userQuery = document.getElementById('searchInput').value.trim();
         const engine = e.submitter.value; // 'google' or 'bing'
-        const filter = 'site:hacktricks.xyz';
+        const filter = 'site:hacktricks.wiki';
         
         let actionUrl;
         if (engine === 'hacktricks') {
