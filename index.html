@@ -143,6 +143,7 @@
     <input type="text" id="searchInput" placeholder="Search within HackTricks..." />
     <div class="buttons">
         <button type="submit" name="engine" value="hacktricks">Search in HackTricks</button>
+        <button type="submit" name="engine" value="hacktricks-cloud">Search in HackTricks Cloud</button>
         <button type="submit" name="engine" value="bing">Search with Bing</button>
     </div>
 </form>
@@ -159,7 +160,13 @@
             actionUrl = 'https://book.hacktricks.wiki/en/index.html';
             input_name = 'search';
             input_value = userQuery;
-        } else {
+        } 
+        if (engine === 'hacktricks-cloud') {
+            actionUrl = 'https://cloud.hacktricks.wiki/en/index.html';
+            input_name = 'search';
+            input_value = userQuery;
+        }
+        else {
             actionUrl = 'https://www.bing.com/search';
             input_name = 'q';
             input_value = filter + ' ' + userQuery;
