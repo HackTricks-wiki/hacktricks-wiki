@@ -25642,27 +25642,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-defender.html"/>
   </url>
   <url>
-    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/intune.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/intune.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/intune.html"/>
-  </url>
-  <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-file-shares.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-file-shares.html"/>
@@ -25703,6 +25682,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-function-apps.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-function-apps.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-function-apps.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/intune.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/intune.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/intune.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-keyvault.html</loc>
@@ -25850,6 +25850,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-queue.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-queue.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-queue.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-sentinel.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-services/az-sentinel.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-services/az-servicebus.html</loc>
