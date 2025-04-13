@@ -5608,25 +5608,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/atexec.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/dcom-exec.html</loc>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/dcomexec.html</loc>
     <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/lateral-movement/dcom-exec.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/dcom-exec.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/lateral-movement/dcomexec.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/dcomexec.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/psexec-and-winexec.html</loc>
@@ -5650,25 +5650,46 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/psexec-and-winexec.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/smbexec.html</loc>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/rdpexec.html</loc>
     <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/lateral-movement/smbexec.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/smbexec.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/lateral-movement/rdpexec.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/rdpexec.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/scmexec.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/lateral-movement/scmexec.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/lateral-movement/scmexec.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/lateral-movement/winrm.html</loc>
@@ -5900,6 +5921,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/cobalt-strike.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/cobalt-strike.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/cobalt-strike.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/mythic.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/mythic.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/mythic.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-checklist.html</loc>
@@ -21293,6 +21335,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-persistence/aws-api-gateway-persistence.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-persistence/aws-api-gateway-persistence.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-persistence/aws-api-gateway-persistence.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-persistence/aws-cloudformation-persistence.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-cognito-persistence.html</loc>
