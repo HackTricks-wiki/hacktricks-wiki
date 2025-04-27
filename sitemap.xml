@@ -11152,6 +11152,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/dapps-DecentralizedApplications.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/dapps-DecentralizedApplications.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/dapps-DecentralizedApplications.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/dependency-confusion.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/dependency-confusion.html"/>
@@ -12494,6 +12515,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/reverse-tab-nabbing.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/reverse-tab-nabbing.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/reverse-tab-nabbing.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/rsql-injection.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/rsql-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/rsql-injection.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/saml-attacks/index.html</loc>
