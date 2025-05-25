@@ -6742,6 +6742,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/ios-pentesting/ios-hooking-with-objection.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/ios-pentesting/ios-pentesting-without-jailbreak.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/ios-pentesting/ios-protocol-handlers.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/ios-pentesting/ios-protocol-handlers.html"/>
