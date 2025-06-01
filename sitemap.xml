@@ -4705,6 +4705,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/acl-persistence-abuse/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/acl-persistence-abuse/BadSuccessor.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/acl-persistence-abuse/shadow-credentials.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/acl-persistence-abuse/shadow-credentials.html"/>
