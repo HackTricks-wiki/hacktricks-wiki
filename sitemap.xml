@@ -15751,6 +15751,447 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/AI/index.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Deep-Learning.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Deep-Learning.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Deep-Learning.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-MCP-Servers.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-MCP-Servers.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-MCP-Servers.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Model-Data-Preparation-and-Evaluation.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Model-Data-Preparation-and-Evaluation.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Models-RCE.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Models-RCE.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Models-RCE.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Prompts.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Prompts.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Risk-Frameworks.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Risk-Frameworks.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Risk-Frameworks.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Supervised-Learning-Algorithms.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Supervised-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Supervised-Learning-Algorithms.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Unsupervised-Learning-algorithms.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Unsupervised-Learning-algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Unsupervised-Learning-algorithms.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Reinforcement-Learning-Algorithms.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Reinforcement-Learning-Algorithms.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/0.-basic-llm-concepts.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/0.-basic-llm-concepts.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/1.-tokenizing.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/1.-tokenizing.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/1.-tokenizing.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/2.-data-sampling.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/2.-data-sampling.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/2.-data-sampling.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/3.-token-embeddings.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/3.-token-embeddings.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/4.-attention-mechanisms.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/4.-attention-mechanisms.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/5.-llm-architecture.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/5.-llm-architecture.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/6.-pre-training-and-loading-models.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/7.0.-lora-improvements-in-fine-tuning.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/7.1.-fine-tuning-for-classification.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-llm-architecture/7.2.-fine-tuning-to-follow-instructions.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/reversing/reversing-tools-basic-methods/index.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/reversing/reversing-tools-basic-methods/index.html"/>
@@ -16778,237 +17219,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/test-llms.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/test-llms.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/test-llms.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/index.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/index.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/index.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/0.-basic-llm-concepts.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/0.-basic-llm-concepts.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/1.-tokenizing.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/1.-tokenizing.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/2.-data-sampling.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/2.-data-sampling.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/3.-token-embeddings.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/3.-token-embeddings.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/4.-attention-mechanisms.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/4.-attention-mechanisms.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/5.-llm-architecture.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/5.-llm-architecture.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/6.-pre-training-and-loading-models.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/todo/burp-suite.html</loc>
