@@ -505,6 +505,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/detecting-phising.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/phishing-documents.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/phishing-documents.html"/>
@@ -2836,6 +2857,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-defensive-apps.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-dyld-hijacking-and-dyld_insert_libraries.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-gcd-grand-central-dispatch.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-gcd-grand-central-dispatch.html"/>
@@ -4201,6 +4243,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-auto-start-locations.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/authentication-credentials-uac-and-efs.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/authentication-credentials-uac-and-efs.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/checklist-windows-privilege-escalation.html"/>
@@ -4241,6 +4304,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens.html</loc>
@@ -4850,6 +4934,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/ad-certificates/certificate-theft.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/ad-certificates/certificate-theft.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/ad-certificates/certificate-theft.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/ad-certificates.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/ad-certificates.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/ad-certificates.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/ad-information-in-printers.html</loc>
@@ -5480,6 +5585,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/skeleton-key.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/skeleton-key.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/skeleton-key.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/TimeRoasting.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/TimeRoasting.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/unconstrained-delegation.html</loc>
@@ -6488,6 +6614,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/reversing-native-libraries.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/reversing-native-libraries.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/reversing-native-libraries.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/smali-changes.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/smali-changes.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/spoofing-your-location-in-play-store.html</loc>
@@ -7603,6 +7750,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/cgi.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/django.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/django.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/django.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/dotnetnuke-dnn.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/dotnetnuke-dnn.html"/>
@@ -7811,27 +7979,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/golang.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/golang.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/golang.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/gwt-google-web-toolkit.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/grafana.html</loc>
@@ -8485,25 +8632,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-4-greater-than-4.2.0-php-5-pcntl_exec.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/%24%5C_GET%5C%5B%22b%22%5C%5D</loc>
-    <priority>1.00</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/%24%5C_GET%5C%5B%22b%22%5C%5D"/>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-ssrf.html</loc>
@@ -8630,6 +8777,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/code-review-tools.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/code-review-tools.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/code-review-tools.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/special-http-headers.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/special-http-headers.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/special-http-headers.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/spring-actuators.html</loc>
@@ -11593,6 +11761,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/deserialization/jndi-java-naming-and-directory-interface-and-log4shell.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/deserialization/ruby-_json-pollution.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/deserialization/ruby-_json-pollution.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/deserialization/ruby-class-pollution.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/deserialization/ruby-class-pollution.html"/>
@@ -12853,6 +13042,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/sql-injection/cypher-injection-neo4j.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/sql-injection/sqlmap.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/sql-injection/sqlmap.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/sql-injection/sqlmap.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/index.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/index.html"/>
@@ -13334,6 +13544,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xpath-injection.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xpath-injection.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xpath-injection.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/xs-search.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xs-search.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xs-search.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/xslt-server-side-injection-extensible-stylesheet-language-transformations.html</loc>
@@ -15646,6 +15877,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/arbitrary-write-2-exec/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/arbitrary-write-2-exec/aw2exec-sips-icc-profile.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/www2exec-atexit.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/www2exec-atexit.html"/>
@@ -16654,25 +16906,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/todo/references.html</loc>
+    <loc>https://book.hacktricks.wiki/en/todo/interesting-http.html</loc>
     <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/references.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/references.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/interesting-http.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/interesting-http.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/todo/rust-basics.html</loc>
@@ -16738,27 +16990,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/misc.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/todo/pentesting-dns.html</loc>
-    <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/pentesting-dns.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/pentesting-dns.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/todo/hardware-hacking/index.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/hardware-hacking/index.html"/>
@@ -16780,6 +17011,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/hardware-hacking/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/todo/hardware-hacking/fault_injection_attacks.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/hardware-hacking/fault_injection_attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/hardware-hacking/fault_injection_attacks.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/todo/hardware-hacking/i2c.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/hardware-hacking/i2c.html"/>
@@ -16799,6 +17051,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/hardware-hacking/i2c.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/hardware-hacking/i2c.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/hardware-hacking/i2c.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/todo/hardware-hacking/side_channel_analysis.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/hardware-hacking/side_channel_analysis.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/hardware-hacking/side_channel_analysis.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/todo/hardware-hacking/uart.html</loc>
@@ -17326,48 +17599,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/android-forensics.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/todo/tr-069.html</loc>
-    <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/tr-069.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/tr-069.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/todo/6881-udp-pentesting-bittorrent.html</loc>
-    <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/6881-udp-pentesting-bittorrent.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/6881-udp-pentesting-bittorrent.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/todo/online-platforms-with-api.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/online-platforms-with-api.html"/>
@@ -17471,6 +17702,153 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/cookies-policy.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/cookies-policy.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/cookies-policy.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/blockchain/blockchain-and-crypto-currencies/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/blockchain/blockchain-and-crypto-currencies/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/blockchain/blockchain-and-crypto-currencies/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html</loc>
+    <priority>0.60</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/mac-os-architecture/macos-ipc-inter-process-communication/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/1521-1522-1529-pentesting-oracle-listener/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/web-vulnerabilities-methodology/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/reversing/cryptographic-algorithms/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/reversing/cryptographic-algorithms/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/reversing/cryptographic-algorithms/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/reversing/reversing-tools/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/reversing/reversing-tools/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/reversing/reversing-tools/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens/index.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/index.html</loc>
