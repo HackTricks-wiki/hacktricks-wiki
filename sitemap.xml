@@ -568,6 +568,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/discord-invite-hijacking.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/mobile-phishing-malicious-apps.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/phishing-documents.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/phishing-documents.html"/>
@@ -5587,6 +5608,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/resource-based-constrained-delegation.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/sccm-management-point-relay-sql-policy-secrets.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/security-descriptors.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/security-descriptors.html"/>
@@ -8336,6 +8378,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/laravel.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/laravel.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/laravel.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/microsoft-sharepoint.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/microsoft-sharepoint.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/moodle.html</loc>
@@ -15119,6 +15182,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/array-indexing.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/array-indexing.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/array-indexing.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/chrome-exploiting.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/chrome-exploiting.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/chrome-exploiting.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/integer-overflow.html</loc>
@@ -22639,25 +22723,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-persistence/aws-sqs-persistence.html"/>
   </url>
   <url>
-    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html</loc>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html</loc>
     <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-persistence/aws-ssm-perssitence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-persistence/aws-ssm-persistence.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-persistence/aws-step-functions-persistence.html</loc>
