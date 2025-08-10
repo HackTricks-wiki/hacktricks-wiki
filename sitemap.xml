@@ -6322,6 +6322,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/accessibility-services-abuse.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-applications-basics.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-applications-basics.html"/>
@@ -17534,6 +17555,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/radio-hacking/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/radio-hacking/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/radio-hacking/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/todo/radio-hacking/maxiprox-mobile-cloner.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/todo/radio-hacking/maxiprox-mobile-cloner.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/todo/radio-hacking/pentesting-rfid.html</loc>
