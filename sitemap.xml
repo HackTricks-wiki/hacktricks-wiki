@@ -1492,6 +1492,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/threat-modeling.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-hacking/archive-extraction-path-traversal.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-hacking/archive-extraction-path-traversal.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-hacking/archive-extraction-path-traversal.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-hacking/brute-force.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-hacking/brute-force.html"/>
@@ -5165,6 +5186,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/asreproast.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/asreproast.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/asreproast.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/badsuccessor-dmsa-migration-abuse.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/bloodhound.html</loc>
@@ -15247,6 +15289,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/rop-return-oriented-programing/srop-sigreturn-oriented-programming/srop-arm64.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/array-indexing.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/array-indexing.html"/>
@@ -16400,6 +16463,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/AI/AI-Assisted-Fuzzing-and-Vulnerability-Discovery.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/AI/AI-Deep-Learning.html</loc>
