@@ -757,6 +757,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/image-acquisition-and-mount.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/ios-backup-forensics.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/linux-forensics.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/linux-forensics.html"/>
@@ -1177,6 +1198,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/png-tricks.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/structural-file-format-exploit-detection.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/video-and-audio-file-analysis.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/video-and-audio-file-analysis.html"/>
@@ -1322,6 +1364,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/python/bypass-python-sandboxes/load_name-load_const-opcode-oob-read.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/python/bypass-python-sandboxes/load_name-load_const-opcode-oob-read.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/python/bypass-python-sandboxes/load_name-load_const-opcode-oob-read.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/python/bypass-python-sandboxes/reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/python/class-pollution-pythons-prototype-pollution.html</loc>
@@ -4495,6 +4558,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
@@ -5543,6 +5627,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/kerberos-double-hop-problem.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/kerberos-double-hop-problem.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/kerberos-double-hop-problem.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/lansweeper-security.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/active-directory-methodology/lansweeper-security.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/laps.html</loc>
@@ -8462,6 +8567,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/imagemagick-security.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/imagemagick-security.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/imagemagick-security.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/ispconfig.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/ispconfig.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/ispconfig.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/jboss.html</loc>
@@ -15371,6 +15497,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/hardware-physical-access/firmware-analysis/synology-encrypted-archive-decryption.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/stack-overflow/windows-seh-overflow.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/stack-overflow/windows-seh-overflow.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/array-indexing.html</loc>
