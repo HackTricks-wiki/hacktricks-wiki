@@ -505,6 +505,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/ai-agent-mode-phishing-abusing-hosted-agent-browsers.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/clipboard-hijacking.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/phishing-methodology/clipboard-hijacking.html"/>
@@ -671,6 +692,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/adaptixc2-config-extraction-and-ttps.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/file-integrity-monitoring.html</loc>
@@ -1114,6 +1156,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/desofuscation-vbs-cscript.exe.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/discord-cache-forensics.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/local-cloud-storage.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/local-cloud-storage.html"/>
@@ -1133,6 +1196,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/local-cloud-storage.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/local-cloud-storage.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/local-cloud-storage.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/mach-o-entitlements-and-ipsw-indexing.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/office-file-analysis.html</loc>
@@ -1597,6 +1681,48 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/blockchain/blockchain-and-crypto-currencies/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/blockchain/smart-contract-security/mutation-testing-with-slither.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/blockchain/smart-contract-security/mutation-testing-with-slither.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/blockchain/blockchain-and-crypto-currencies/defi-amm-hook-precision.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/lua/bypass-lua-sandboxes/index.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/lua/bypass-lua-sandboxes/index.html"/>
@@ -1870,6 +1996,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-hacking/tunneling-and-port-forwarding.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/linux-hardening/linux-basics.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/linux-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/linux-basics.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/linux-hardening/linux-privilege-escalation-checklist.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/linux-privilege-escalation-checklist.html"/>
@@ -1931,6 +2078,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/privilege-escalation/android-rooting-frameworks-manager-auth-bypass-syscall-hook.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/privilege-escalation/android-rooting-frameworks-manager-auth-bypass-syscall-hook.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/android-rooting-frameworks-manager-auth-bypass-syscall-hook.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/write-to-root.html</loc>
@@ -2477,6 +2645,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/privilege-escalation/escaping-from-limited-bash.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/privilege-escalation/escaping-from-limited-bash.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/escaping-from-limited-bash.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/euid-ruid-suid.html</loc>
@@ -4640,27 +4829,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/arbitrary-kernel-rw-token-theft.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/windows-local-privilege-escalation/dll-hijacking.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/privilege-escalation-abusing-tokens.html</loc>
@@ -6971,6 +7139,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/google-ctf-2018-shall-we-play-a-game.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/google-ctf-2018-shall-we-play-a-game.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/google-ctf-2018-shall-we-play-a-game.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/in-memory-jni-shellcode-execution.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/insecure-in-app-update-rce.html</loc>
@@ -9682,6 +9871,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-kerberos-88/harvesting-tickets-from-linux.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/wsgi.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/wsgi.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/wsgi.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-pop.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-pop.html"/>
@@ -11341,6 +11551,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/27017-27018-mongodb.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/32100-udp-pentesting-pppp-cs2-p2p-cameras.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/44134-pentesting-tiller-helm.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/44134-pentesting-tiller-helm.html"/>
@@ -11633,6 +11864,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/browser-extension-pentesting-methodology/browext-xss-example.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/browser-extension-pentesting-methodology/browext-xss-example.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/browser-extension-pentesting-methodology/browext-xss-example.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/browser-extension-pentesting-methodology/forced-extension-load-preferences-mac-forgery-windows.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/bypass-payment-process.html</loc>
@@ -12263,6 +12515,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/deserialization/basic-java-deserialization-objectinputstream-readobject.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/deserialization/basic-java-deserialization-objectinputstream-readobject.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/deserialization/basic-java-deserialization-objectinputstream-readobject.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/deserialization/java-signedobject-gated-deserialization.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/deserialization/java-signedobject-gated-deserialization.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes.html</loc>
@@ -14617,6 +14890,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/steal-info-js.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/wasm-linear-memory-template-overwrite-xss.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/xss-in-markdown.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/xss-in-markdown.html"/>
@@ -16717,6 +17011,48 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/common-exploiting-problems.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/windows-exploiting-basic-guide-oscp-lvl.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/windows-exploiting-basic-guide-oscp-lvl.html"/>
@@ -16757,6 +17093,111 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/CVE-2020-27950-mach_msg_trailer_t.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/CVE-2021-30807-IOMobileFrameBuffer.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-corellium.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/ios-corellium.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/ios-example-heap-exploit.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/ios-exploiting/ios-physical-uaf-iosurface.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/AI/index.html</loc>
@@ -17618,27 +18059,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/crypto-and-stego/esoteric-languages.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/crypto-and-stego/esoteric-languages.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/crypto-and-stego/esoteric-languages.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/crypto-and-stego/blockchain-and-crypto-currencies.html</loc>
-    <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/crypto-and-stego/blockchain-and-crypto-currencies.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/todo/interesting-http.html</loc>
@@ -19258,25 +19678,46 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/supabase-security.html"/>
   </url>
   <url>
-    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html</loc>
-    <priority>0.90</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/chef-automate-security/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/chef-automate-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/chef-automate-security/index.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/chef-automate-security/chef-automate-enumeration-and-attacks.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/vercel-security.html</loc>
@@ -19298,6 +19739,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/vercel-security.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/vercel-security.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/vercel-security.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/todo.html</loc>
@@ -20243,6 +20705,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-security-post-exploitation.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-security-post-exploitation.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-security-post-exploitation.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-vertex-ai-post-exploitation.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/gcp-security/gcp-post-exploitation/gcp-workflows-post-exploitation.html</loc>
@@ -26692,6 +27175,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-basic-information/index.html"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-basic-information/az-federation-abuse.html"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-basic-information/az-tokens-and-public-applications.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-basic-information/az-tokens-and-public-applications.html"/>
@@ -27908,6 +28412,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-post-exploitation/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-post-exploitation/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-post-exploitation/index.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-post-exploitation/az-azure-ai-foundry-post-exploitation.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-post-exploitation/az-blob-storage-post-exploitation.html</loc>
