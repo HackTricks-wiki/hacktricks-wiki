@@ -925,6 +925,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/malware-analysis.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/basic-forensic-methodology/android-malware-post-exploitation.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/index.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/index.html"/>
@@ -12643,6 +12664,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/11211-memcache/memcache-commands.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/12346-udp-pentesting-cisco-sd-wan-control-plane.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/15672-pentesting-rabbitmq-management.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/15672-pentesting-rabbitmq-management.html"/>
@@ -18292,6 +18334,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/arbitrary-write-2-exec/aw2exec-__malloc_hook.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/arbitrary-write-2-exec/aw2exec-__printf_arginfo_table.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/libc-heap/virtualbox-slirp-nat-packet-heap-exploitation.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/libc-heap/virtualbox-slirp-nat-packet-heap-exploitation.html"/>
@@ -20789,6 +20852,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/gitea-security/basic-gitea-information.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/gitea-security/basic-gitea-information.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/gitea-security/basic-gitea-information.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/gogs-security/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/gogs-security/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/gogs-security/index.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/concourse-security/index.html</loc>
