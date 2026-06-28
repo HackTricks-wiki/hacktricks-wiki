@@ -3046,6 +3046,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/linux-kernel-exploitation/posix-cpu-timers-toctou-cve-2025-38352.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/linux-hardening/privilege-escalation/linux-kernel-exploitation/linux-ptrace-exit-race-pidfd_getfd-fd-theft.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/euid-ruid-suid.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/euid-ruid-suid.html"/>
@@ -7708,6 +7729,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/android-hce-nfc-emv-relay-attacks.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-physical-attacks.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/android-physical-attacks.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-task-hijacking.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-task-hijacking.html"/>
@@ -7727,6 +7769,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/android-task-hijacking.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/android-task-hijacking.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/android-task-hijacking.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/mobile-pentesting/android-app-pentesting/android-vpn-bypass.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/mobile-pentesting/android-app-pentesting/adb-commands.html</loc>
@@ -11843,6 +11906,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/1883-pentesting-mqtt-mosquitto.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/1883-pentesting-mqtt-mosquitto.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/1883-pentesting-mqtt-mosquitto.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-iso-8583-payment-sockets.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-iso-8583-payment-sockets.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/nfs-service-pentesting.html</loc>
@@ -20768,6 +20852,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-context-script-injections.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-context-script-injections.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-context-script-injections.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-ci-cd/github-security/abusing-github-actions/gh-actions-npm-supply-chain-abuse.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-ci-cd/github-security/accessible-deleted-data-in-github.html</loc>
@@ -30134,6 +30239,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-vms-unauth.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-vms-unauth.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-vms-unauth.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-monitor-alert-phishing.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-device-code-authentication-phishing.html</loc>
