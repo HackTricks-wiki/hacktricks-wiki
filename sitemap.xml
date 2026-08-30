@@ -4243,6 +4243,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-chromium-injection.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-bash-applications-injection.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-electron-applications-injection.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-electron-applications-injection.html"/>
@@ -4474,6 +4495,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-java-apps-injection.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-julia-applications-injection.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-library-injection/index.html</loc>
     <priority>0.60</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-library-injection/index.html"/>
@@ -4558,6 +4600,48 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-perl-applications-injection.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-php-applications-injection.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-powershell-applications-injection.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-python-applications-injection.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-python-applications-injection.html"/>
@@ -4579,6 +4663,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-python-applications-injection.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
@@ -4598,6 +4703,69 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-lua-applications-injection.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-octave-applications-injection.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-.net-applications-injection.html</loc>
@@ -21904,6 +22072,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/confidential-computing/luks2-header-malleability-null-cipher-abuse.html"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/environment-variable-injection.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/environment-variable-injection.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/environment-variable-injection.html"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/kubernetes-security/index.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/kubernetes-security/index.html"/>
@@ -27364,6 +27553,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-privilege-escalation/index.html"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html</loc>
+    <priority>0.60</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-privilege-escalation/aws-amplify-privesc/index.html"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apigateway-privesc/index.html</loc>
     <priority>0.60</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apigateway-privesc/index.html"/>
@@ -27404,6 +27614,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apprunner-privesc/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apprunner-privesc/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apprunner-privesc/index.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html</loc>
+    <priority>0.60</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/aws-security/aws-privilege-escalation/aws-batch-privesc/index.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/aws-security/aws-privilege-escalation/aws-bedrock-privesc/index.html</loc>
@@ -32066,6 +32297,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-automation-accounts-privesc.html"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.wiki/es/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.wiki/af/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.wiki/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.wiki/fr/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.wiki/de/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.wiki/el/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.wiki/hi/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.wiki/it/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.wiki/ja/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.wiki/ko/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.wiki/pl/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.wiki/pt/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.wiki/sr/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.wiki/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.wiki/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.wiki/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-batch-privesc.html"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.wiki/en/pentesting-cloud/azure-security/az-privilege-escalation/az-container-registry-privesc.html</loc>
