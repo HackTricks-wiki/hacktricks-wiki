@@ -6175,48 +6175,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-python-applications-injection.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-r-applications-injection.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-ruby-applications-injection.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-vim-applications-injection.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-vim-applications-injection.html"/>
@@ -6236,27 +6194,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-vim-applications-injection.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-vim-applications-injection.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-vim-applications-injection.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-erlang-elixir-applications-injection.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/macos-hardening/macos-security-and-privilege-escalation/macos-proces-abuse/macos-.net-applications-injection.html</loc>
@@ -7055,6 +6992,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/checklist-windows-privilege-escalation.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/checklist-windows-privilege-escalation.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/checklist-windows-privilege-escalation.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/vscode-extension-abuse.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/vscode-extension-abuse.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/vscode-extension-abuse.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/visual-studio-vsix-extension-abuse.html</loc>
@@ -11908,27 +11866,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/geonetwork.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/golang.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/golang.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/golang.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/grafana.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/grafana.html"/>
@@ -12517,25 +12454,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-php-5.2.4-ioncube-extension-exploit.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html</loc>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html</loc>
     <priority>0.60</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-less-than-5.2.9-on-windows.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/legacy-php-safe-mode-bypasses.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.4-and-5.2.5-php-curl.html</loc>
@@ -12557,27 +12494,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.4-and-5.2.5-php-curl.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.4-and-5.2.5-php-curl.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.4-and-5.2.5-php-curl.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html</loc>
-    <priority>0.60</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-perl-extension-safe_mode-bypass-exploit.html</loc>
@@ -12620,27 +12536,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.3-win32std-ext-protections-bypass.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.3-win32std-ext-protections-bypass.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2.3-win32std-ext-protections-bypass.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html</loc>
-    <priority>0.60</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-php-5.2-fopen-exploit.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/php-tricks-esp/php-useful-functions-disable_functions-open_basedir-bypass/disable_functions-bypass-via-mem.html</loc>
@@ -16171,27 +16066,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/dangling-markup-html-scriptless-injection/index.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/dangling-markup-html-scriptless-injection/ss-leaks.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/dapps-DecentralizedApplications.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/dapps-DecentralizedApplications.html"/>
@@ -18082,27 +17956,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/sql-injection/postgresql-injection/index.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/sql-injection/postgresql-injection/dblink-lo_import-data-exfiltration.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/pl-pgsql-password-bruteforce.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/pl-pgsql-password-bruteforce.html"/>
@@ -18941,27 +18794,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xss-cross-site-scripting/some-same-origin-method-execution.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xss-cross-site-scripting/some-same-origin-method-execution.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/some-same-origin-method-execution.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/sniff-leak.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/sniff-leak.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/xss-information-exfiltration-payload.html</loc>
@@ -20854,6 +20686,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/array-indexing.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/php-request-oom-bailout-and-stale-state.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/php-request-oom-bailout-and-stale-state.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/chrome-exploiting.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/chrome-exploiting.html"/>
@@ -20957,27 +20810,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/format-strings/format-strings-arbitrary-read-example.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/format-strings/format-strings-arbitrary-read-example.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/format-strings/format-strings-arbitrary-read-example.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/binary-exploitation/format-strings/format-strings-template.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/format-strings/format-strings-template.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/format-strings/format-strings-template.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/libc-heap/index.html</loc>
@@ -21986,6 +21818,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/common-exploiting-problems.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/common-exploiting-problems.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/common-exploiting-problems.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/binary-exploitation/brotli-block-switch-decoder-state-corruption.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/binary-exploitation/brotli-block-switch-decoder-state-corruption.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/binary-exploitation/freebsd-kernel-exploitation-vnet-jail-escape.html</loc>
