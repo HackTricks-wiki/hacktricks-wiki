@@ -1429,6 +1429,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/phishing-methodology/phishing-documents.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/github-issues-and-repository-files-c2.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/index.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/basic-forensic-methodology/index.html"/>
@@ -2477,6 +2498,27 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/side-channel-attacks-on-messaging-protocols.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/side-channel-attacks-on-messaging-protocols.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/side-channel-attacks-on-messaging-protocols.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/generic-methodologies-and-resources/whatsapp-prekey-bundle-side-channel.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/generic-methodologies-and-resources/threat-modeling.html</loc>
@@ -9199,6 +9241,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/basic-powershell-for-pentesters/index.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/windows-hardening/basic-powershell-for-pentesters/dotnet-enumeration.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/windows-hardening/basic-powershell-for-pentesters/powerview.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/windows-hardening/basic-powershell-for-pentesters/powerview.html"/>
@@ -11068,25 +11131,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-ftp/ftp-bounce-attack.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html</loc>
+    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html</loc>
     <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-ftp/ftp-bounce-protocol-relay.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-ssh.html</loc>
@@ -11698,90 +11761,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/drupal/drupal-rce.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/electron-desktop-apps/index.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/flask.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/flask.html"/>
@@ -11885,27 +11864,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/grafana.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/grafana.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/grafana.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/graphql.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/graphql.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/graphql.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/h2-java-sql-database.html</loc>
@@ -12704,27 +12662,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/proxmox-ve.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/proxmox-ve.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/proxmox-ve.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/python.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/network-services-pentesting/pentesting-web/python.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/network-services-pentesting/pentesting-web/python.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/rocket-chat.html</loc>
@@ -15289,6 +15226,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/web-api-pentesting.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/graphql.html</loc>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/graphql.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/graphql.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/403-and-401-bypasses.html</loc>
     <priority>0.90</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/403-and-401-bypasses.html"/>
@@ -16799,27 +16757,6 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/file-upload/index.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/file-upload/index.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/file-upload/index.html"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.wiki/en/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html</loc>
-    <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/file-upload/pdf-upload-xxe-and-cors-bypass.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/formula-csv-doc-latex-ghostscript-injection.html</loc>
@@ -18775,6 +18712,27 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/shadow-dom.html"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xss-cross-site-scripting/svg-sanitizer-bypasses.html"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/some-same-origin-method-execution.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xss-cross-site-scripting/some-same-origin-method-execution.html"/>
@@ -19090,27 +19048,6 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xs-search/css-injection/index.html"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.wiki/en/pentesting-web/xs-search/css-injection/css-injection-code.html</loc>
-    <priority>0.70</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/xs-search/css-injection/css-injection-code.html"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.wiki/en/pentesting-web/xs-search/css-injection/less-code-injection.html</loc>
     <priority>0.70</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/pentesting-web/xs-search/css-injection/less-code-injection.html"/>
@@ -19151,6 +19088,132 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/pentesting-web/iframe-traps.html"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/pentesting-web/iframe-traps.html"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/pentesting-web/iframe-traps.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/index.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/index.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/index.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/electron-auto-update-trust-boundaries.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/electron-local-code-injection-and-snapshot-tampering.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-preload-code.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-electron-internal-code.html"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.wiki/en/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.wiki/es/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.wiki/af/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.wiki/zh/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.wiki/fr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.wiki/de/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.wiki/el/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.wiki/hi/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.wiki/it/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.wiki/ja/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.wiki/ko/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.wiki/pl/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.wiki/pt/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.wiki/sr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.wiki/sw/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.wiki/tr/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.wiki/uk/desktop-application-security/electron-desktop-apps/electron-contextisolation-rce-via-ipc.html"/>
   </url>
   <url>
     <loc>https://book.hacktricks.wiki/en/blockchain/blockchain-and-crypto-currencies/index.html</loc>
